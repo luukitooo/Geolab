@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Geolab App</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="continue_button_text">Continue</string>
+</resources>
